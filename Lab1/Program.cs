@@ -2,6 +2,10 @@ using System;
 
 class Program
 {
+    static void Main()
+    {
+        
+    }
     static int CalculateFactorial(int n)
     {
         if (n == 0)
